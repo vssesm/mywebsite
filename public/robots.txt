@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://vinayakaesmgroup.co.in/sitemap_local.xml
+Disallow:
