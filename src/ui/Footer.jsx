@@ -195,7 +195,7 @@ const Footer = ({ setPageIndex, setsubpageIndex }) => {
         </Grid>
       </Hidden>
       <img
-        src="/assets/footerAdornment.svg"
+        src="/assets/FooterAdornment.svg"
         alt="black decorative slash"
         className={classes.adornment}
       />
