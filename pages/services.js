@@ -68,7 +68,7 @@ const ServicePage = ({
         />
         <meta
           property="og:title"
-          content="Bring Vinayaka Security Services to the Tirupati, Vijayawada and Andhra Pradesh | Security, OutSourcing and Housekeeping Services"
+          content="Vinayaka Security Services Best In Class Services at Tirupati, Vijayawada and Andhra Pradesh | Security, OutSourcing and Housekeeping Services"
           key="og:title"
         />
         <meta

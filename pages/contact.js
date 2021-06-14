@@ -174,7 +174,7 @@ const Contact = ({ setValue, setSelectedIndex }) => {
         />
         <meta
           property="og:title"
-          content="Bring Vinayaka Security Services to the Tirupati, Vijayawada and Andhra Pradesh | Conatct Us"
+          content="Vinayaka Security Services Best In Class Services at Tirupati, Vijayawada and Andhra Pradesh | Conatct Us"
           key="og:title"
         />
         <meta
@@ -233,9 +233,9 @@ const Contact = ({ setValue, setSelectedIndex }) => {
                 >
                   <a
                     style={{ textDecoration: "none", color: "inherit" }}
-                    href="tel:9032339622"
+                    href="tel:8328367191"
                   >
-                    +91 90323 39622
+                    +91 83283 67191
                   </a>
                 </Typography>
               </Grid>
@@ -406,7 +406,7 @@ const Contact = ({ setValue, setSelectedIndex }) => {
               value={contact.message}
               rows={10}
               multiline
-              placeholder="Tell us more about your project."
+              placeholder="Tell us more about yourself."
               id="message"
               onChange={handleChange}
               className={classes.message}
@@ -542,9 +542,9 @@ const Contact = ({ setValue, setSelectedIndex }) => {
               >
                 <a
                   style={{ textDecoration: "none", color: "inherit" }}
-                  href="tel:9032339622"
+                  href="tel:8328367191"
                 >
-                  Phone: +91 90323 39622
+                  Phone: +91 83283 67191
                 </a>
               </Typography>
             </Grid>
@@ -620,9 +620,9 @@ const Contact = ({ setValue, setSelectedIndex }) => {
               >
                 <a
                   style={{ textDecoration: "none", color: "inherit" }}
-                  href="tel:9032339622"
+                  href="tel:7206249996"
                 >
-                  Phone: +91 90323 39622
+                  Phone: +91 72062 49996
                 </a>
               </Typography>
             </Grid>

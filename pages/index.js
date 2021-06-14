@@ -166,7 +166,7 @@ const index = ({ setPageIndex, setsubpageIndex }) => {
         />
         <meta
           property="og:title"
-          content="Bring Vinayaka Security Services to the Tirupati, Vijayawada and Andhra Pradesh | Vinayaka security services"
+          content="Vinayaka Security Services Best In Class Services at Tirupati, Vijayawada and Andhra Pradesh | Vinayaka security services"
           key="og:title"
         />
         <meta
